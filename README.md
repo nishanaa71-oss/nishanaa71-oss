@@ -1,27 +1,27 @@
 # Hi there 👋, I'm Nishana
 
-🎓 Final-year B.Tech Computer Science student  
-☁️ Cloud Computing Enthusiast  
-💼 Currently interning in Cloud Institution  
-🚀 Passionate about building scalable and real-world applications  
+ Final-year B.Tech Computer Science student  
+ Cloud Computing Enthusiast  
+ Currently interning in Cloud Institution  
+ Passionate about building scalable and real-world applications  
 
 ---
 
 ## 🔧 Skills & Technologies
 
-- 💻 Languages: C, C++, Java, Python  
-- 🌐 Web: HTML, CSS, JavaScript  
-- ☁️ Cloud: AWS / Azure 
-- 🛠️ Tools: Git, GitHub, VS Code, Docker 
-- 📊 Other: Data Structures & Algorithms  
+-  Languages: C, C++, Java, Python  
+-  Web: HTML, CSS, JavaScript  
+-  Cloud: AWS / Azure 
+-  Tools: Git, GitHub, VS Code, Docker 
+-  Other: Data Structures & Algorithms  
 
 ---
 
 ## 📌 Current Focus
 
-- 🌱 Learning advanced cloud concepts  
-- 🔨 Working on real-world projects during internship  
-- 📈 Improving problem-solving skills  
+-  Learning advanced cloud concepts  
+-  Working on real-world projects during internship  
+-  Improving problem-solving skills  
 
 ---
 
@@ -39,8 +39,8 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: linkedin.com/in/fathimathul-nishana-p-8a208a27a
-- 📧 Email: nishanaa71@gmailcom
+-  LinkedIn: linkedin.com/in/fathimathul-nishana-p-8a208a27a
+-  Email: nishanaa71@gmailcom
 
 ---
 
